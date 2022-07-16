@@ -1,1 +1,1 @@
-# dio-desafio-github-primeiro-repositorio
+# Repositórios para as atividades do Bootcamp DIO
